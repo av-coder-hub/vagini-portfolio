@@ -10,7 +10,7 @@ Hi! I'm **Ananda Vagini**, an aspiring Full Stack Developer passionate about bui
 - 📍 Location: Puducherry, India
 - 📱 Phone: 9677709035
 - 🌐 GitHub: [av-coder-hub](https://github.com/av-coder-hub)
-- 🔗 LinkedIn: [Vaginia Lagarsamy](https://www.linkedin.com/in/vaginialagarsamy)
+- 🔗 LinkedIn: [Vaginialagarsamy](https://www.linkedin.com/in/vaginialagarsamy)
 
 ---
 
