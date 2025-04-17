@@ -16,7 +16,7 @@ Hi! I'm **Ananda Vagini**, an aspiring Full Stack Developer passionate about bui
 
 ## 💼 Projects
 
-### 🌐 [Global Kin](#)
+### 🌐 [Global Kin](https://github.com/av-coder-hub/petiteFrance.git)
 **Trip Planning Platform** | *Spring Boot + ReactJS + MongoDB*
 
 - Interactive trip planner using OpenStreetMap API.
@@ -25,7 +25,7 @@ Hi! I'm **Ananda Vagini**, an aspiring Full Stack Developer passionate about bui
 
 ---
 
-### ✅ [Task Tracker](#)
+### ✅ [Task Tracker](https://github.com/av-coder-hub/task-tracker.git)
 **Daily Task Manager** | *LAMP Stack (Linux, Apache, MySQL, PHP)*
 
 - Full CRUD operations for time-based task management.
@@ -34,7 +34,7 @@ Hi! I'm **Ananda Vagini**, an aspiring Full Stack Developer passionate about bui
 
 ---
 
-### 📇 [Contact Manager](#)
+### 📇 [Contact Manager](https://github.com/av-coder-hub/contact-manager-app.git)
 **Contact Management System** | *PHP + MySQL*
 
 - Add, update, delete, and search personal or business contacts.
@@ -43,7 +43,7 @@ Hi! I'm **Ananda Vagini**, an aspiring Full Stack Developer passionate about bui
 
 ---
 
-### 🏥 [Med Track](#)
+### 🏥 [Med Track](https://github.com/av-coder-hub/hospitalmanagement.git)
 **Hospital Management System** | *Spring Boot + MySQL + Security*
 
 - Manages appointments, patient records, and staff scheduling.
@@ -52,7 +52,7 @@ Hi! I'm **Ananda Vagini**, an aspiring Full Stack Developer passionate about bui
 
 ---
 
-### 🎉 [FestFlow](#)
+### 🎉 [FestFlow](https://github.com/av-coder-hub/FestFlow.git)
 **Event Management System** | *Spring Boot + MySQL*
 
 - Event creation, registration, and live updates.
