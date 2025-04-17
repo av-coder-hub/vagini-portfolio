@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/av-coder-hub/vagini-portfolio.git/static/css/main.53e5a548.chunk.css",
+    "main.js": "/av-coder-hub/vagini-portfolio.git/static/js/main.5efeb210.chunk.js",
+    "main.js.map": "/av-coder-hub/vagini-portfolio.git/static/js/main.5efeb210.chunk.js.map",
+    "runtime-main.js": "/av-coder-hub/vagini-portfolio.git/static/js/runtime-main.efc6f8fc.js",
+    "runtime-main.js.map": "/av-coder-hub/vagini-portfolio.git/static/js/runtime-main.efc6f8fc.js.map",
+    "static/css/2.3916efa1.chunk.css": "/av-coder-hub/vagini-portfolio.git/static/css/2.3916efa1.chunk.css",
+    "static/js/2.b16c890e.chunk.js": "/av-coder-hub/vagini-portfolio.git/static/js/2.b16c890e.chunk.js",
+    "static/js/2.b16c890e.chunk.js.map": "/av-coder-hub/vagini-portfolio.git/static/js/2.b16c890e.chunk.js.map",
+    "static/js/3.ccd13ff9.chunk.js": "/av-coder-hub/vagini-portfolio.git/static/js/3.ccd13ff9.chunk.js",
+    "static/js/3.ccd13ff9.chunk.js.map": "/av-coder-hub/vagini-portfolio.git/static/js/3.ccd13ff9.chunk.js.map",
+    "index.html": "/av-coder-hub/vagini-portfolio.git/index.html",
+    "static/css/2.3916efa1.chunk.css.map": "/av-coder-hub/vagini-portfolio.git/static/css/2.3916efa1.chunk.css.map",
+    "static/css/main.53e5a548.chunk.css.map": "/av-coder-hub/vagini-portfolio.git/static/css/main.53e5a548.chunk.css.map",
+    "static/js/2.b16c890e.chunk.js.LICENSE.txt": "/av-coder-hub/vagini-portfolio.git/static/js/2.b16c890e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efc6f8fc.js",
+    "static/css/2.3916efa1.chunk.css",
+    "static/js/2.b16c890e.chunk.js",
+    "static/css/main.53e5a548.chunk.css",
+    "static/js/main.5efeb210.chunk.js"
+  ]
+}
