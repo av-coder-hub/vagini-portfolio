@@ -1,70 +1,120 @@
-# Getting Started with Create React App
+# 🌟 Ananda Vagini A - Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hi! I'm **Ananda Vagini**, an aspiring Full Stack Developer passionate about building impactful, user-friendly web applications. With a strong foundation in **Java, Spring Boot, React, MySQL**, and an evolving interest in **AI & Automation**, I bring a unique blend of analytical thinking and creative development skills from my civil engineering background.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📫 Contact
 
-### `npm start`
+- 📧 Email: [vaginipy97@gmail.com](mailto:vaginipy97@gmail.com)
+- 📍 Location: Puducherry, India
+- 📱 Phone: 9677709035
+- 🌐 GitHub: [av-coder-hub](https://github.com/av-coder-hub)
+- 🔗 LinkedIn: [Vaginia Lagarsamy](https://www.linkedin.com/in/vaginialagarsamy)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 💼 Projects
 
-### `npm test`
+### 🌐 [Global Kin](#)
+**Trip Planning Platform** | *Spring Boot + ReactJS + MongoDB*
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Interactive trip planner using OpenStreetMap API.
+- Dynamic itinerary suggestions based on user-selected destinations.
+- RESTful backend and visually interactive frontend.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### ✅ [Task Tracker](#)
+**Daily Task Manager** | *LAMP Stack (Linux, Apache, MySQL, PHP)*
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Full CRUD operations for time-based task management.
+- Real-time updates using JavaScript.
+- Clean interface and well-structured backend with MySQL database.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+### 📇 [Contact Manager](#)
+**Contact Management System** | *PHP + MySQL*
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Add, update, delete, and search personal or business contacts.
+- Organized user-friendly interface for managing contact information.
+- Built with core PHP and MySQL, follows best practices for modular backend design.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 🏥 [Med Track](#)
+**Hospital Management System** | *Spring Boot + MySQL + Security*
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Manages appointments, patient records, and staff scheduling.
+- Secure authentication and role-based access.
+- Real-time data validation and workflow optimization.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### 🎉 [FestFlow](#)
+**Event Management System** | *Spring Boot + MySQL*
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Event creation, registration, and live updates.
+- Real-time attendee tracking and smooth event workflow.
+- Intuitive admin panel for managing all events.
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### 💡 Joyful Mind *(in progress)*
+**Interactive Mental Wellness App** | *React + Node.js (Planned)*
 
-### Analyzing the Bundle Size
+- Focused on enhancing mindfulness and positivity.
+- Includes activities, affirmations, journaling, and more.
+- Clean, responsive UI with future AI integration planned.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 🛠 Skills
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+**Languages**: Java, Python, JavaScript, PHP  
+**Frontend**: React.js, React Router, Tailwind CSS, Axios  
+**Backend**: Spring Boot, Node.js, REST API, JUnit, Hibernate, JDBC  
+**Databases**: MySQL, MongoDB  
+**Tools**: Git, Postman, Eclipse, VS Code, Linux, Apache, Google Colab, Tableau  
+**Other**: OpenStreetMap, Leaflet.js, AutoCAD, STAADPro, ETABS  
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 📜 Certifications
 
-### Deployment
+- Java (Basic) – HackerRank  
+- Python (Basic) – HackerRank  
+- SQL (Intermediate) – HackerRank  
+- Frontend Developer (React) – HackerRank  
+- Full Stack Java Developer – Career Craft Academy
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+---
 
-### `npm run build` fails to minify
+## 🎓 Education
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**B.Tech in Civil Engineering**  
+*Christ College of Engineering and Technology, Puducherry (2014 – 2018)*  
+**CGPA:** 8.47
+
+---
+
+## 👷 Civil Engineering Work Experience
+
+- **Quantity Surveyor**, Apex Construction, Coimbatore *(Mar 2022 – Mar 2023)*  
+- **Structural Designer**, Star Builders, Puducherry *(Feb 2021 – Feb 2022)*  
+- **Soil and Water Conservator**, REYDS Trust, Dindigul *(Jul 2019 – Jan 2021)*  
+- **Junior Structural Engineer**, La Mere Construction, Puducherry *(Jan 2019 – Jun 2019)*  
+
+---
+
+## 🚀 Goals
+
+- Secure a **remote Full Stack Developer role**  
+- Build high-impact apps using **Spring Boot + React**  
+- Learn and implement **AI/ML and automation**  
+- Develop feature-rich apps like **Joyful Mind** and **Joyful Living**
+
+---
+
+🧠 *“Code is not just about logic; it’s about joy, creativity, and making life easier.”*
